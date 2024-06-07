@@ -1,0 +1,1405 @@
+ 'victimized': 'cheated',
+ 'accused': 'cheated',
+ 'acquitted': 'singled out',
+ 'adorable': 'loved',
+ 'adored': 'loved',
+ 'affected': 'attracted',
+ 'afflicted': 'sad',
+ 'aghast': 'fearful',
+ 'agog': 'attracted',
+ 'agonized': 'sad',
+ 'alarmed': 'fearful',
+ 'amused': 'happy',
+ 'angry': 'angry',
+ 'anguished': 'sad',
+ 'animated': 'happy',
+ 'annoyed': 'angry',
+ 'anxious': 'attracted',
+ 'apathetic': 'bored',
+ 'appalled': 'angry',
+ 'appeased': 'singled out',
+ 'appreciated': 'esteemed',
+ 'apprehensive': 'fearful',
+ 'approved of': 'loved',
+ 'ardent': 'lustful',
+ 'aroused': 'lustful',
+ 'attached': 'attached',
+ 'attracted': 'attracted',
+ 'autonomous': 'independent',
+ 'awed': 'fearful',
+ 'awkward': 'embarrassed',
+ 'beaten down': 'powerless',
+ 'beatific': 'happy',
+ 'belonging': 'attached',
+ 'bereaved': 'sad',
+ 'betrayed': 'cheated',
+ 'bewildered': 'surprise',
+ 'bitter': 'angry',
+ 'blissful': 'happy',
+ 'blithe': 'happy',
+ 'blocked': 'powerless',
+ 'blue': 'sad',
+ 'boiling': 'angry',
+ 'bold': 'fearless',
+ 'bored': 'bored',
+ 'brave': 'fearless',
+ 'bright': 'happy',
+ 'brisk': 'happy',
+ 'calm': 'safe',
+ 'capable': 'adequate',
+ 'captivated': 'attached',
+ 'careless': 'powerless',
+ 'categorized': 'singled out',
+ 'cautious': 'fearful',
+ 'certain': 'fearless',
+ 'chagrined': 'belittled',
+ 'challenged': 'attracted',
+ 'chastised': 'hated',
+ 'cheated': 'cheated',
+ 'cheerful': 'happy',
+ 'cheerless': 'sad',
+ 'cheery': 'happy',
+ 'cherished': 'attached',
+ 'chicken': 'fearful',
+ 'cocky': 'independent',
+ 'codependent': 'codependent',
+ 'coerced': 'cheated',
+ 'comfortable': 'happy',
+ 'common': 'average',
+ 'competent': 'adequate',
+ 'complacent': 'apathetic',
+ 'composed': 'adequate',
+ 'concerned': 'attracted',
+ 'confident': 'adequate',
+ 'confused': 'surprise',
+ 'connected': 'attached',
+ 'conned': 'cheated',
+ 'consumed': 'obsessed',
+ 'contented': 'happy',
+ 'controlled': 'powerless',
+ 'convivial': 'happy',
+ 'cornered': 'entitled',
+ 'courageous': 'fearless',
+ 'cowardly': 'fearful',
+ 'craving': 'attracted',
+ 'crestfallen': 'sad',
+ 'criticized': 'hated',
+ 'cross': 'angry',
+ 'cross-examined': 'singled out',
+ 'crushed': 'sad',
+ 'curious': 'attracted',
+ 'cut off': 'alone',
+ 'daring': 'fearless',
+ 'dark': 'sad',
+ 'dedicated': 'attracted',
+ 'defeated': 'powerless',
+ 'defenseless': 'fearful',
+ 'degraded': 'belittled',
+ 'dejected': 'sad',
+ 'depressed': 'sad',
+ 'deserted': 'hated',
+ 'desirable': 'loved',
+ 'despondent': 'sad',
+ 'detached': 'alone',
+ 'determined': 'focused',
+ 'diminished': 'belittled',
+ 'disappointed': 'demoralized',
+ 'discarded': 'hated',
+ 'disconsolate': 'sad',
+ 'discontented': 'sad',
+ 'discounted': 'belittled',
+ 'discouraged': 'powerless',
+ 'disgraced': 'belittled',
+ 'disgusted': 'angry',
+ 'disheartened': 'demoralized',
+ 'disillusioned': 'demoralized',
+ 'disjointed': 'derailed',
+ 'dismal': 'sad',
+ 'dismayed': 'fearful',
+ 'disoriented': 'derailed',
+ 'disparaged': 'cheated',
+ 'displeased': 'sad',
+ 'disrespected': 'belittled',
+ 'distressed': 'sad',
+ 'distrustful': 'anxious',
+ 'dolorous': 'sad',
+ 'doubtful': 'fearful',
+ 'down': 'sad',
+ 'downhearted': 'sad',
+ 'dreadful': 'sad',
+ 'dreary': 'sad',
+ 'dubious': 'anxious',
+ 'dull': 'sad',
+ 'duped': 'cheated',
+ 'eager': 'attracted',
+ 'earnest': 'attracted',
+ 'ecstatic': 'happy',
+ 'elated': 'happy',
+ 'embarrassed': 'embarrassed',
+ 'empathetic': 'attached',
+ 'enchanted': 'attracted',
+ 'encouraged': 'adequate',
+ 'engrossed': 'attracted',
+ 'enraged': 'angry',
+ 'enterprising': 'fearless',
+ 'enthusiastic': 'happy',
+ 'entrusted': 'loved',
+ 'esteemed': 'esteemed',
+ 'excited': 'happy',
+ 'excluded': 'alone',
+ 'exempt': 'entitled',
+ 'exhausted hopeless': 'powerless',
+ 'exhilarated': 'happy',
+ 'exploited': 'cheated',
+ 'exposed': 'fearful',
+ 'fabulous': 'ecstatic',
+ 'fainthearted': 'fearful',
+ 'fantastic': 'ecstatic',
+ 'fascinated': 'attracted',
+ 'favored': 'entitled',
+ 'fearful': 'fearful',
+ 'fervent': 'attracted',
+ 'fervid': 'attracted',
+ 'festive': 'happy',
+ 'flat': 'sad',
+ 'focused': 'focused',
+ 'forced': 'powerless',
+ 'forsaken': 'hated',
+ 'framed': 'cheated',
+ 'free': 'free',
+ 'free & easy': 'happy',
+ 'frightened': 'fearful',
+ 'frisky': 'happy',
+ 'frustrated': 'angry',
+ 'full of anticipation': 'attracted',
+ 'full of ennui': 'apathetic',
+ 'fuming': 'angry',
+ 'funereal': 'sad',
+ 'furious': 'angry',
+ 'gallant': 'fearless',
+ 'genial': 'happy',
+ 'glad': 'happy',
+ 'gleeful': 'happy',
+ 'gloomy': 'sad',
+ 'glum': 'sad',
+ 'grief-stricken': 'sad',
+ 'grieved': 'sad',
+ 'guilt': 'sad',
+ 'guilty': 'singled out',
+ 'happy': 'happy',
+ 'hardy': 'fearless',
+ 'heartbroken': 'sad',
+ 'heavyhearted': 'sad',
+ 'hesitant': 'fearful',
+ 'high-spirited': 'happy',
+ 'hilarious': 'happy',
+ 'hopeful': 'attracted',
+ 'horny': 'lustful',
+ 'horrified': 'fearful',
+ 'hot and bothered': 'lustful',
+ 'humiliated': 'sad',
+ 'humorous': 'happy',
+ 'hurt': 'sad',
+ 'hysterical': 'fearful',
+ 'ignored': 'hated',
+ 'ill at ease': 'sad',
+ 'immobilized': 'apathetic',
+ 'immune': 'entitled',
+ 'important': 'happy',
+ 'impotent': 'powerless',
+ 'imprisoned': 'entitled',
+ 'in a huff': 'angry',
+ 'in a stew': 'angry',
+ 'in control': 'adequate',
+ 'in fear': 'fearful',
+ 'in pain': 'sad',
+ 'in the dumps': 'sad',
+ 'in the zone': 'focused',
+ 'incensed': 'angry',
+ 'included': 'attached',
+ 'indecisive': 'anxious',
+ 'independent': 'free',
+ 'indignant': 'angry',
+ 'infatuated': 'lustful',
+ 'inflamed': 'angry',
+ 'injured': 'sad',
+ 'inquisitive': 'attracted',
+ 'insecure': 'codependent',
+ 'insignificant': 'belittled',
+ 'intent': 'attracted',
+ 'interested': 'attracted',
+ 'interrogated': 'singled out',
+ 'intrigued': 'attracted',
+ 'irate': 'angry',
+ 'irresolute': 'fearful',
+ 'irresponsible': 'powerless',
+ 'irritated': 'angry',
+ 'isolated': 'alone',
+ 'jaunty': 'happy',
+ 'jocular': 'happy',
+ 'jolly': 'happy',
+ 'jovial': 'happy',
+ 'joyful': 'happy',
+ 'joyless': 'sad',
+ 'joyous': 'happy',
+ 'jubilant': 'happy',
+ 'justified': 'singled out',
+ 'keen': 'attracted',
+ 'labeled': 'singled out',
+ 'lackadaisical': 'bored',
+ 'lazy': 'apathetic',
+ 'left out': 'hated',
+ 'let down': 'hated',
+ 'lethargic': 'apathetic',
+ 'lied to': 'cheated',
+ 'lighthearted': 'happy',
+ 'liked': 'attached',
+ 'lively': 'happy',
+ 'livid': 'angry',
+ 'lonely': 'alone',
+ 'lonesome': 'alone',
+ 'lost': 'lost',
+ 'loved': 'attached',
+ 'low': 'sad',
+ 'lucky': 'happy',
+ 'lugubrious': 'sad',
+ 'macho': 'independent',
+ 'mad': 'angry',
+ 'melancholy': 'sad',
+ 'menaced': 'fearful',
+ 'merry': 'happy',
+ 'mirthful': 'happy',
+ 'misgiving': 'fearful',
+ 'misunderstood': 'alone',
+ 'moody': 'sad',
+ 'moping': 'sad',
+ 'motivated': 'attracted',
+ 'mournful': 'sad',
+ 'needed': 'attracted',
+ 'needy': 'codependent',
+ 'nervous': 'fearful',
+ 'obligated': 'powerless',
+ 'obsessed': 'obsessed',
+ 'offended': 'angry',
+ 'oppressed': 'sad',
+ 'optionless': 'entitled',
+ 'ordinary': 'average',
+ 'organized': 'adequate',
+ 'out of control': 'powerless',
+ 'out of sorts': 'sad',
+ 'outmaneuvered': 'entitled',
+ 'outraged': 'angry',
+ 'overjoyed': 'happy',
+ 'overlooked': 'hated',
+ 'overwhelmed': 'powerless',
+ 'panicked': 'fearful',
+ 'passionate': 'lustful',
+ 'passive': 'apathetic',
+ 'pathetic': 'sad',
+ 'peaceful': 'safe',
+ 'pensive': 'anxious',
+ 'perplexed': 'anxious',
+ 'phobic': 'fearful',
+ 'playful': 'happy',
+ 'pleased': 'happy',
+ 'powerless': 'powerless',
+ 'pressured': 'burdened',
+ 'privileged': 'entitled',
+ 'proud': 'happy',
+ 'provoked': 'angry',
+ 'punished': 'hated',
+ 'put upon': 'burdened',
+ 'quaking': 'fearful',
+ 'quiescent': 'apathetic',
+ 'rageful': 'angry',
+ 'rapturous': 'happy',
+ 'rated': 'singled out',
+ 'reassured': 'fearless',
+ 'reckless': 'powerless',
+ 'redeemed': 'singled out',
+ 'regretful': 'sad',
+ 'rejected': 'alone',
+ 'released': 'free',
+ 'remorse': 'sad',
+ 'replaced': 'hated',
+ 'repulsed': 'demoralized',
+ 'resentful': 'angry',
+ 'resolute': 'fearless',
+ 'respected': 'esteemed',
+ 'responsible': 'adequate',
+ 'restful': 'fearful',
+ 'revered': 'esteemed',
+ 'rueful': 'sad',
+ 'sad': 'sad',
+ 'satisfied': 'happy',
+ 'saucy': 'happy',
+ 'scared': 'fearful',
+ 'secure': 'fearless',
+ 'self-reliant': 'fearless',
+ 'serene': 'happy',
+ 'shaky': 'fearful',
+ 'shamed': 'sad',
+ 'shocked': 'surprise',
+ 'significant': 'esteemed',
+ 'singled out': 'singled out',
+ 'skeptical': 'anxious',
+ 'snoopy': 'attracted',
+ 'somber': 'sad',
+ 'sparkling': 'happy',
+ 'spirited': 'happy',
+ 'spiritless': 'sad',
+ 'sprightly': 'happy',
+ 'startled': 'surprise',
+ 'stereotyped': 'singled out',
+ 'stifled': 'powerless',
+ 'stout hearted': 'fearless',
+ 'strong': 'independent',
+ 'suffering': 'sad',
+ 'sulky': 'sad',
+ 'sullen': 'angry',
+ 'sunny': 'happy',
+ 'surprised': 'surprise',
+ 'suspicious': 'anxious',
+ 'sympathetic': 'codependent',
+ 'tense': 'anxious',
+ 'terrified': 'fearful',
+ 'terrorized': 'fearful',
+ 'thankful': 'happy',
+ 'threatened': 'fearful',
+ 'thwarted': 'powerless',
+ 'timid': 'fearful',
+ 'timorous': 'fearful',
+ 'torn': 'derailed',
+ 'tortured': 'sad',
+ 'tragic': 'sad',
+ 'tranquil': 'happy',
+ 'transported': 'happy',
+ 'trapped': 'entitled',
+ 'tremulous': 'fearful',
+ 'tricked': 'entitled',
+ 'turned on': 'lustful',
+ 'unapproved of': 'hated',
+ 'unbelieving': 'anxious',
+ 'uncertain': 'anxious',
+ 'unconcerned': 'apathetic',
+ 'understood': 'attached',
+ 'unfocussed': 'lost',
+ 'unlovable': 'hated',
+ 'unloved': 'hated',
+ 'unmotivated': 'apathetic',
+ 'unshackled': 'free',
+ 'unsupported': 'belittled',
+ 'up in arms': 'angry',
+ 'upset': 'fearful',
+ 'validated': 'loved',
+ 'valued': 'esteemed',
+ 'victimized': 'sad',
+ 'violated': 'cheated',
+ 'virulent': 'angry',
+ 'vivacious': 'happy',
+ 'vulnerable': 'powerless',
+ 'wavering': 'anxious',
+ 'weak': 'powerless',
+ 'welcomed': 'loved',
+ 'woebegone': 'sad',
+ 'woeful': 'sad',
+ 'worn down': 'powerless',
+ 'worn out': 'powerless',
+ 'worried': 'fearful',
+ 'worshiped': 'esteemed',
+ 'wrathful': 'angry',
+ 'wronged': 'singled out',
+ 'wrought up': 'angry',
+ 'yearning': 'lustful',
+ 'yellow': 'fearful',
+ 'zealous': 'attracted',
+ 'abandoned': 'hated',
+ 'absolved': 'singled out',
+ 'absorbed': 'attracted',
+ 'abused': 'powerless',
+ 'accepted': 'loved',
+ 'aching': 'sad',
+ 'acrimonious': 'angry',
+ 'addicted': 'codependent',
+ 'adequate': 'adequate',
+ 'admired': 'esteemed',
+ 'affectionate': 'attached',
+ 'affronted': 'singled out',
+ 'afraid': 'fearful',
+ 'airy': 'happy',
+ 'alone': 'alone',
+ 'ambivalent': 'bored',
+ 'apathetic': 'apathetic',
+ 'apprehensive': 'anxious',
+ 'arrogant': 'independent',
+ 'ashamed': 'embarrassed',
+ 'astonished': 'surprise',
+ 'at ease': 'safe',
+ 'attacked': 'fearful',
+ 'audacious': 'fearless',
+ 'autonomous': 'free',
+ 'average': 'average',
+ 'avid': 'attracted',
+ 'baffled': 'lost',
+ 'bashful': 'powerless',
+ 'belittled': 'belittled',
+ 'buoyant': 'happy',
+ 'burdened': 'burdened',
+ 'clouded': 'sad',
+ 'committed': 'focused',
+ 'compassionate': 'attached',
+ 'compelled': 'obsessed',
+ 'dauntless': 'fearless',
+ 'debonair': 'happy',
+ 'deceived': 'entitled',
+ 'delighted': 'ecstatic',
+ 'demoralized': 'demoralized',
+ 'derailed': 'derailed',
+ 'desirous': 'attracted',
+ 'despairing': 'sad',
+ 'devastated': 'angry',
+ 'diffident': 'fearful',
+ 'discredited': 'belittled',
+ 'disheartened': 'sad',
+ 'disinclined': 'demoralized',
+ 'disorganized': 'powerless',
+ 'downcast': 'sad',
+ 'entitled': 'entitled',
+ 'excited': 'adequate',
+ 'exultant': 'happy',
+ 'fidgety': 'fearful',
+ 'frowning': 'sad',
+ 'full of misgiving': 'anxious',
+ 'great': 'happy',
+ 'hapless': 'sad',
+ 'hated': 'hated',
+ 'heroic': 'fearless',
+ 'hostile': 'angry',
+ 'in despair': 'sad',
+ 'indifferent': 'bored',
+ 'infuriated': 'angry',
+ 'insecure': 'fearful',
+ 'inspired': 'happy',
+ 'inspiring': 'attracted',
+ 'judged': 'singled out',
+ 'justified': 'singled out',
+ 'laughting': 'happy',
+ 'loved': 'loved',
+ 'loving': 'attached',
+ 'low': 'sad',
+ 'lustful': 'lustful',
+ 'manipulated': 'cheated',
+ 'mumpish': 'sad',
+ 'nosey': 'attracted',
+ 'numb': 'apathetic',
+ 'obliterated': 'powerless',
+ 'peaceful': 'happy',
+ 'petrified': 'fearful',
+ 'piqued': 'angry',
+ 'piteous': 'sad',
+ 'powerless': 'powerless',
+ 'questioning': 'anxious',
+ 'rejected': 'hated',
+ 'self-satisfied': 'happy',
+ 'set up': 'entitled',
+ 'shut out': 'alone',
+ 'sorrowful': 'sad',
+ 'spirited': 'sad',
+ 'supported': 'esteemed',
+ 'suspicious': 'fearful',
+ 'terrific': 'happy',
+ 'trapped': 'entitled',
+ 'trembling': 'fearful',
+ 'uncomfortable': 'anxious',
+ 'underestimated': 'belittled',
+ 'unhappy': 'sad',
+ 'vindicated': 'singled out',
+ 'worked up': 'angry'
+ tired: 'sad'
+ happy:joy
+sad:sadness
+angry:anger
+excited:joy
+fearful:fear
+disgusted:disgust
+surprised:surprise
+trusting:trust
+anticipating:anticipation
+happy:joy
+joyful:joy
+elated:joy
+excited:joy
+pleased:joy
+content:joy
+delighted:joy
+glad:joy
+cheerful:joy
+ecstatic:joy
+sad:sadness
+unhappy:sadness
+sorrowful:sadness
+depressed:sadness
+mournful:sadness
+downcast:sadness
+miserable:sadness
+gloomy:sadness
+melancholy:sadness
+disheartened:sadness
+angry:anger
+furious:anger
+enraged:anger
+irritated:anger
+outraged:anger
+annoyed:anger
+cross:anger
+infuriated:anger
+wrathful:anger
+hostile:anger
+fearful:fear
+afraid:fear
+scared:fear
+terrified:fear
+petrified:fear
+frightened:fear
+alarmed:fear
+panic:fear
+nervous:fear
+anxious:fear
+disgusted:disgust
+repulsed:disgust
+revolted:disgust
+sickened:disgust
+nauseated:disgust
+appalled:disgust
+loathsome:disgust
+abhorrent:disgust
+horrified:disgust
+offended:disgust
+surprised:surprise
+astonished:surprise
+amazed:surprise
+startled:surprise
+shocked:surprise
+stunned:surprise
+speechless:surprise
+bewildered:surprise
+astounded:surprise
+flabbergasted:surprise
+trusting:trust
+confident:trust
+assured:trust
+reliable:trust
+dependable:trust
+faithful:trust
+loyal:trust
+secure:trust
+trustworthy:trust
+trusting:trust
+anticipating:anticipation
+expecting:anticipation
+awaiting:anticipation
+hoping:anticipation
+forecasting:anticipation
+predicting:anticipation
+looking forward:anticipation
+preparing:anticipation
+premonition:anticipation
+foreseeing:anticipation
+happy:joy
+joyful:joy
+elated:joy
+excited:joy
+pleased:joy
+content:joy
+delighted:joy
+glad:joy
+cheerful:joy
+ecstatic:joy
+sad:sadness
+unhappy:sadness
+sorrowful:sadness
+depressed:sadness
+mournful:sadness
+downcast:sadness
+miserable:sadness
+gloomy:sadness
+melancholy:sadness
+disheartened:sadness
+angry:anger
+furious:anger
+enraged:anger
+irritated:anger
+outraged:anger
+annoyed:anger
+cross:anger
+infuriated:anger
+wrathful:anger
+hostile:anger
+fearful:fear
+afraid:fear
+scared:fear
+terrified:fear
+petrified:fear
+frightened:fear
+alarmed:fear
+panic:fear
+nervous:fear
+anxious:fear
+disgusted:disgust
+repulsed:disgust
+revolted:disgust
+sickened:disgust
+nauseated:disgust
+appalled:disgust
+loathsome:disgust
+abhorrent:disgust
+horrified:disgust
+offended:disgust
+surprised:surprise
+astonished:surprise
+amazed:surprise
+startled:surprise
+shocked:surprise
+stunned:surprise
+speechless:surprise
+bewildered:surprise
+astounded:surprise
+flabbergasted:surprise
+trusting:trust
+confident:trust
+assured:trust
+reliable:trust
+dependable:trust
+faithful:trust
+loyal:trust
+secure:trust
+trustworthy:trust
+trusting:trust
+anticipating:anticipation
+expecting:anticipation
+awaiting:anticipation
+hoping:anticipation
+forecasting:anticipation
+predicting:anticipation
+looking forward:anticipation
+preparing:anticipation
+premonition:anticipation
+foreseeing:anticipation
+relaxed:calmness
+calm:calmness
+peaceful:calmness
+serene:calmness
+tranquil:calmness
+placid:calmness
+soothing:calmness
+restful:calmness
+comfortable:calmness
+easygoing:calmness
+kindness:kindness
+kind:kindness
+generous:kindness
+helpful:kindness
+considerate:kindness
+friendly:kindness
+affectionate:kindness
+loving:kindness
+compassionate:kindness
+sympathetic:kindness
+hopeful:hope
+optimistic:hope
+encouraged:hope
+heartened:hope
+reassured:hope
+confident:hope
+faithful:hope
+expectant:hope
+inspired:hope
+excited:hope
+hello:neutral
+hi:neutral
+good morning:neutral
+good afternoon:neutral
+good evening:neutral
+how can I help you:neutral
+thank you:gratitude
+thanks:gratitude
+appreciate it:gratitude
+great:positive
+excellent:positive
+wonderful:positive
+fantastic:positive
+satisfied:positive
+happy:positive
+awesome:positive
+superb:positive
+unhappy:negative
+frustrated:negative
+angry:negative
+upset:negative
+disappointed:negative
+annoyed:negative
+unsatisfied:negative
+problem:confusion
+issue:confusion
+confused:confusion
+trouble:confusion
+concerned:worry
+worried:worry
+anxious:worry
+nervous:worry
+fearful:worry
+stressed:worry
+resolved:satisfaction
+fixed:satisfaction
+resolved:satisfaction
+improved:satisfaction
+solved:satisfaction
+sorted:satisfaction
+resolved:satisfaction
+understand:understanding
+got it:understanding
+clear:understanding
+comprehend:understanding
+explained:understanding
+clarified:understanding
+happy to assist:helpfulness
+here to help:helpfulness
+assistance:helpfulness
+support:helpfulness
+guidance:helpfulness
+information:helpfulness
+happy:joy
+joyful:joy
+excited:joy
+pleased:joy
+content:joy
+delighted:joy
+glad:joy
+cheerful:joy
+ecstatic:joy
+satisfied:joy
+positive:joy
+hopeful:hope
+optimistic:hope
+encouraged:hope
+confident:hope
+expectant:hope
+faithful:hope
+excited:excitement
+thrilled:excitement
+energetic:excitement
+enthusiastic:excitement
+passionate:excitement
+eager:excitement
+amazed:surprise
+astonished:surprise
+surprised:surprise
+shocked:surprise
+stunned:surprise
+speechless:surprise
+bewildered:surprise
+astonishment:surprise
+fearful:fear
+afraid:fear
+scared:fear
+terrified:fear
+anxious:fear
+nervous:fear
+worried:fear
+apprehensive:fear
+tense:fear
+uneasy:fear
+angry:anger
+frustrated:anger
+irritated:anger
+mad:anger
+outraged:anger
+annoyed:anger
+resentful:anger
+hostile:anger
+infuriated:anger
+disgusted:disgust
+repulsed:disgust
+revolted:disgust
+nauseated:disgust
+sickened:disgust
+appalled:disgust
+offended:disgust
+grossed out:disgust
+sad:sadness
+unhappy:sadness
+sorrowful:sadness
+depressed:sadness
+mournful:sadness
+melancholic:sadness
+gloomy:sadness
+despondent:sadness
+heartbroken:sadness
+happy:joy
+joyful:joy
+excited:joy
+pleased:joy
+content:joy
+delighted:joy
+glad:joy
+cheerful:joy
+ecstatic:joy
+satisfied:joy
+positive:joy
+hopeful:hope
+optimistic:hope
+encouraged:hope
+confident:hope
+expectant:hope
+faithful:hope
+amazed:surprise
+astonished:surprise
+surprised:surprise
+shocked:surprise
+stunned:surprise
+speechless:surprise
+bewildered:surprise
+astonishment:surprise
+fearful:fear
+afraid:fear
+scared:fear
+terrified:fear
+anxious:fear
+nervous:fear
+worried:fear
+apprehensive:fear
+tense:fear
+uneasy:fear
+angry:anger
+frustrated:anger
+irritated:anger
+mad:anger
+outraged:anger
+annoyed:anger
+resentful:anger
+hostile:anger
+infuriated:anger
+disgusted:disgust
+repulsed:disgust
+revolted:disgust
+nauseated:disgust
+sickened:disgust
+appalled:disgust
+offended:disgust
+grossed out:disgust
+sad:sadness
+unhappy:sadness
+sorrowful:sadness
+depressed:sadness
+mournful:sadness
+melancholic:sadness
+gloomy:sadness
+despondent:sadness
+heartbroken:sadness
+relaxed:calmness
+calm:calmness
+peaceful:calmness
+serene:calmness
+tranquil:calmness
+placid:calmness
+soothing:calmness
+restful:calmness
+comfortable:calmness
+easygoing:calmness
+happy:joy
+pleased:joy
+satisfied:joy
+grateful:joy
+thankful:joy
+content:joy
+relieved:joy
+excited:joy
+optimistic:hope
+confident:hope
+reassured:hope
+grateful:hope
+appreciative:hope
+patient:hope
+interested:interest
+curious:interest
+engaged:interest
+attentive:interest
+focused:interest
+suspicious:suspicion
+doubtful:suspicion
+uncertain:suspicion
+hesitant:suspicion
+cautious:suspicion
+confused:confusion
+unclear:confusion
+misunderstood:confusion
+frustrated:frustration
+annoyed:frustration
+irritated:frustration
+impatient:frustration
+exasperated:frustration
+angry:anger
+irritated:anger
+frustrated:anger
+disappointed:sadness
+unhappy:sadness
+upset:sadness
+distressed:sadness
+depressed:sadness
+worried:fear
+anxious:fear
+nervousness:fear
+apprehensive:fear
+tense:fear
+fearful:fear
+disgusted:disgust
+repulsed:disgust
+revolted:disgust
+offended:disgust
+shocked:surprise
+surprised:surprise
+astonished:surprise
+amazed:surprise
+bewildered:surprise
+happy:joy
+excited:joy
+gleeful:joy
+enthusiastic:joy
+amused:joy
+jovial:joy
+elated:joy
+thrilled:joy
+content:joy
+satisfied:joy
+grateful:joy
+thankful:joy
+optimistic:hope
+confident:hope
+reassured:hope
+hopeful:hope
+curious:interest
+interested:interest
+engaged:interest
+attentive:interest
+focused:interest
+suspicious:suspicion
+doubtful:suspicion
+uncertain:suspicion
+hesitant:suspicion
+cautious:suspicion
+confused:confusion
+unclear:confusion
+misunderstood:confusion
+frustrated:frustration
+annoyed:frustration
+irritated:frustration
+impatient:frustration
+exasperated:frustration
+angry:anger
+agitated:anger
+irritated:anger
+frustrated:anger
+disappointed:sadness
+unhappy:sadness
+upset:sadness
+distressed:sadness
+depressed:sadness
+worried:fear
+anxious:fear
+nervousness:fear
+apprehensive:fear
+tense:fear
+fearful:fear
+disgusted:disgust
+repulsed:disgust
+revolted:disgust
+offended:disgust
+shocked:surprise
+surprised:surprise
+astonished:surprise
+amazed:surprise
+bewildered:surprise
+happy:joy
+pleased:joy
+satisfied:joy
+grateful:joy
+thankful:joy
+content:joy
+encouraged:joy
+motivated:joy
+optimistic:hope
+confident:hope
+reassured:hope
+hopeful:hope
+curious:interest
+interested:interest
+engaged:interest
+attentive:interest
+focused:interest
+suspicious:suspicion
+doubtful:suspicion
+uncertain:suspicion
+hesitant:suspicion
+cautious:suspicion
+confused:confusion
+unclear:confusion
+misunderstood:confusion
+frustrated:frustration
+annoyed:frustration
+irritated:frustration
+impatient:frustration
+exasperated:frustration
+angry:anger
+agitated:anger
+irritated:anger
+frustrated:anger
+disappointed:sadness
+unhappy:sadness
+upset:sadness
+distressed:sadness
+depressed:sadness
+worried:fear
+anxious:fear
+nervousness:fear
+apprehensive:fear
+tense:fear
+fearful:fear
+surprised:surprise
+astonished:surprise
+amazed:surprise
+bewildered:surprise
+shocked:surprise
+happy:joy
+satisfied:joy
+grateful:joy
+content:joy
+encouraged:joy
+motivated:joy
+proud:joy
+relieved:joy
+optimistic:hope
+confident:hope
+reassured:hope
+hopeful:hope
+curious:interest
+interested:interest
+engaged:interest
+attentive:interest
+focused:interest
+inquisitive:interest
+suspicious:suspicion
+doubtful:suspicion
+uncertain:suspicion
+hesitant:suspicion
+cautious:suspicion
+confused:confusion
+unclear:confusion
+misunderstood:confusion
+frustrated:frustration
+annoyed:frustration
+irritated:frustration
+impatient:frustration
+exasperated:frustration
+angry:anger
+agitated:anger
+irritated:anger
+frustrated:anger
+disappointed:sadness
+unhappy:sadness
+upset:sadness
+distressed:sadness
+depressed:sadness
+worried:fear
+anxious:fear
+nervousness:fear
+apprehensive:fear
+tense:fear
+fearful:fear
+surprised:surprise
+astonished:surprise
+amazed:surprise
+bewildered:surprise
+shocked:surprise
+happy:joy
+joyful:joy
+cheerful:joy
+celebratory:joy
+merry:joy
+elated:joy
+festive:joy
+warm:joy
+heartfelt:joy
+sincere:joy
+delighted:joy
+excited:excitement
+thrilled:excitement
+ecstatic:excitement
+overjoyed:excitement
+enthusiastic:excitement
+joyous:excitement
+grateful:gratitude
+thankful:gratitude
+appreciative:gratitude
+blessed:gratitude
+fortunate:gratitude
+content:gratitude
+happy:gratitude
+wonderful:gratitude
+loved:love
+cherished:love
+adored:love
+beloved:love
+treasured:love
+affectionate:love
+caring:love
+sentimental:love
+warm:love
+heartfelt:love
+blessed:gratitude
+fortunate:gratitude
+privileged:gratitude
+content:gratitude
+thankful:gratitude
+elated:joy
+ecstatic:excitement
+delighted:joy
+overjoyed:excitement
+thrilled:excitement
+joyful:joy
+happy:joy
+excited:excitement
+excited:excitement
+eager:excitement
+enthusiastic:excitement
+thrilled:excitement
+joyful:joy
+happy:joy
+cheerful:joy
+delighted:joy
+hopeful:hope
+optimistic:hope
+expectant:hope
+pleased:joy
+grateful:gratitude
+thankful:gratitude
+appreciative:gratitude
+elated:joy
+overjoyed:excitement
+festive:joy
+celebratory:joy
+excited:excitement
+enthusiastic:excitement
+thrilled:excitement
+delighted:joy
+productive:achievement
+satisfied:achievement
+accomplished:achievement
+successful:achievement
+fulfilled:achievement
+motivated:achievement
+excited:excitement
+enthusiastic:excitement
+passionate:excitement
+inspired:excitement
+energized:excitement
+optimistic:hope
+hopeful:hope
+confident:hope
+encouraged:hope
+reassured:hope
+engaged:interest
+interested:interest
+curious:interest
+attentive:interest
+focused:interest
+inspired:interest
+impressed:admiration
+respectful:admiration
+appreciative:admiration
+admiring:admiration
+proud:admiration
+supportive:support
+encouraging:support
+reassuring:support
+helpful:support
+collaborative:support
+understanding:understanding
+clear:understanding
+concise:understanding
+comprehensible:understanding
+cooperative:understanding
+confused:confusion
+unclear:confusion
+misunderstood:confusion
+uncertain:confusion
+doubtful:confusion
+frustrated:frustration
+annoyed:frustration
+irritated:frustration
+impatient:frustration
+exasperated:frustration
+concerned:worry
+worried:worry
+anxious:worry
+nervous:worry
+apprehensive:worry
+productive:achievement
+satisfied:achievement
+accomplished:achievement
+successful:achievement
+fulfilled:achievement
+motivated:achievement
+excited:excitement
+enthusiastic:excitement
+passionate:excitement
+inspired:excitement
+energized:excitement
+optimistic:hope
+hopeful:hope
+confident:hope
+encouraged:hope
+reassured:hope
+engaged:interest
+interested:interest
+curious:interest
+attentive:interest
+focused:interest
+inspired:interest
+impressed:admiration
+respectful:admiration
+appreciative:admiration
+admiring:admiration
+proud:admiration
+supportive:support
+encouraging:support
+reassuring:support
+helpful:support
+collaborative:support
+understanding:understanding
+clear:understanding
+concise:understanding
+comprehensible:understanding
+cooperative:understanding
+confused:confusion
+unclear:confusion
+misunderstood:confusion
+uncertain:confusion
+doubtful:confusion
+frustrated:frustration
+annoyed:frustration
+irritated:frustration
+impatient:frustration
+exasperated:frustration
+concerned:worry
+worried:worry
+anxious:worry
+nervous:worry
+apprehensive:worry
+satisfied:satisfaction
+pleased:satisfaction
+happy:satisfaction
+delighted:satisfaction
+thankful:satisfaction
+grateful:satisfaction
+content:satisfaction
+joyful:joy
+cheerful:joy
+pleased:joy
+happy:joy
+grateful:gratitude
+thankful:gratitude
+appreciative:gratitude
+satisfied:gratitude
+pleased:gratitude
+impressed:admiration
+respectful:admiration
+appreciative:admiration
+admiring:admiration
+proud:admiration
+friendly:friendliness
+welcoming:friendliness
+amiable:friendliness
+cordial:friendliness
+polite:friendliness
+cheerful:friendliness
+helpful:helpfulness
+attentive:helpfulness
+accommodating:helpfulness
+responsive:helpfulness
+courteous:helpfulness
+satisfied:trust
+assured:trust
+confident:trust
+reliable:trust
+trustworthy:trust
+secure:trust
+pleasant:pleasure
+enjoyable:pleasure
+delightful:pleasure
+satisfying:pleasure
+appealing:pleasure
+pleasant:pleasure
+satisfactory:satisfaction
+enjoyable:satisfaction
+gratifying:satisfaction
+fulfilling:satisfaction
+content:satisfaction
+grateful:satisfaction
+thankful:satisfaction
+pleased:satisfaction
+happy:satisfaction
+delighted:satisfaction
+content:satisfaction
+satisfied:satisfaction
+appreciative:satisfaction
+relieved:satisfaction
+confident:satisfaction
+assured:satisfaction
+trustworthy:satisfaction
+reliable:satisfaction
+efficient:satisfaction
+helpful:satisfaction
+courteous:satisfaction
+friendly:satisfaction
+attentive:satisfaction
+knowledgeable:satisfaction
+professional:satisfaction
+competent:satisfaction
+grateful:gratitude
+thankful:gratitude
+appreciative:gratitude
+pleased:gratitude
+happy:gratitude
+relieved:gratitude
+content:gratitude
+satisfied:gratitude
+friendly:friendliness
+welcoming:friendliness
+amiable:friendliness
+cordial:friendliness
+polite:friendliness
+cheerful:friendliness
+helpful:helpfulness
+attentive:helpfulness
+responsive:helpfulness
+supportive:helpfulness
+accommodating:helpfulness
+competent:confidence
+reliable:confidence
+trustworthy:confidence
+knowledgeable:confidence
+professional:confidence
+assured:confidence
+confident:confidence
+satisfied:confidence
+efficient:efficiency
+timely:efficiency
+quick:efficiency
+productive:efficiency
+effective:efficiency
+get:satisfied
+oh:surprise
+working:satisfied
+good:happy
+going:busy
+school:confidence
